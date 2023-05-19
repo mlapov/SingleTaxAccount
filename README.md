@@ -5,6 +5,10 @@
 In country "X", in order to optimize taxation for businessmen, a Single Tax Payment was introduced in place of several tax payments. That is, a businessman now has to make one payment to one tax account instead of several payments to several tax accounts. And already the tax service should distribute the payment received from businessman to different tax accounts of different budgetary institutions.
 However, things did not go as smoothly as we would like. The tax service, either for technical reasons or for human reasons, could not cope with the innovation, as a result of which some businessmen had problems and tax debts -  that is, the businessman paid, and the tax service did not have time to distribute the money to different tax accounts.
 
+## Problem
+
+Unsatisfactory work of the tax service in spreading the Single tax payment from a businessman to different tax accounts in different government agencies.
+
 ## Solution
 
 Creation of a Smart contract that will replace the tax service in terms of posting payments from businessmen to different tax accounts in different public institutions.
